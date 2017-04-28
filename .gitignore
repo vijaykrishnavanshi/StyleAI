@@ -1,10 +1,5 @@
-#ignore .zip file
 *.zip
-#Ignores .pyc file
 *.pyc
-#OS generated files #
-######################
 .DS_Store
 .DS_Store?
-._*
 
